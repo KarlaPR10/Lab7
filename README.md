@@ -12,7 +12,7 @@ Integrating Design Patterns in a Project Scenario
 
 <img width="559" alt="Captura de pantalla 2024-05-30 a la(s) 6 00 47 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/6e8aeb4a-da0a-4b26-8ec5-954ef98c9b70">
 
-  Dynamic Object Creation Based on User Input: Implement a system to dynamically create various types of user interface elements based on user actions.
+  Dynamic Object Creation Based on User Input: Implement a system to dynamically create various types of user interface elements based on user actions. 
 
   <img width="620" alt="Captura de pantalla 2024-05-30 a la(s) 7 02 05 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/fabe8b59-1fbf-4c93-acff-25051e181e76">
 <img width="765" alt="Captura de pantalla 2024-05-30 a la(s) 7 02 10 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/a0a76bbd-87ca-4866-a5e7-cb4f6cd12e0a">
