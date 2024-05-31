@@ -7,10 +7,9 @@ Integrating Design Patterns in a Project Scenario
         Design a system that ensures a single, globally accessible configuration object without access conflicts.
         class Configuration{
 
-            <img width="523" alt="image" src="https://github.com/KarlaPR10/Lab7/assets/138635602/b501af1e-3cae-41ac-b774-ee62391c104c">
+           <img width="523" alt="Captura de pantalla 2024-05-30 a la(s) 5 42 58 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/010aa554-c0f3-484e-9bc0-9c5fd315e819">
 
-            <img width="559" alt="Captura de pantalla 2024-05-30 a la(s) 6 00 47 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/f1532e40-c305-45f2-aa76-0a72ed41d5f8">
-
+          <img width="559" alt="Captura de pantalla 2024-05-30 a la(s) 6 00 47 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/36826e60-81f4-4f9d-901c-1fc870e8cbde">
 
         Dynamic Object Creation Based on User Input: Implement a system to dynamically create various types of user interface elements based on user actions.
         State Change Notification Across System Components: Ensure components are notified about changes in the state of other parts without creating tight coupling.
