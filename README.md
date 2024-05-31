@@ -18,8 +18,16 @@ Integrating Design Patterns in a Project Scenario
 <img width="765" alt="Captura de pantalla 2024-05-30 a la(s) 7 02 10 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/a0a76bbd-87ca-4866-a5e7-cb4f6cd12e0a">
 
  State Change Notification Across System Components: Ensure components are notified about changes in the state of other parts without creating tight coupling.
-        Efficient Management of Asynchronous Operations: Manage multiple asynchronous operations like API calls which need to be coordinated without blocking the main application workflow.
-    Task: Outline solutions that integrate these patterns into a cohesive design to address the challenges.
-  Project Execution Simulation:
-  Simulate the application of these patterns in a hypothetical software project. Document the approach, rationale, and integration process of the chosen patterns as they apply to the design challenges.
-  
+              
+    En este ejemplo, la clase Evento representa un evento que se puede publicar en el bus de eventos. La clase EventSubscriber representa un componente que puede suscribirse a eventos específicos. La clase Componente publica el evento en el bus de eventos cuando cambia su estado.Al utilizar este enfoque, los componentes pueden notificarse entre sí sobre cambios en su estado sin crear un acoplamiento estrecho entre ellos.
+
+  <img width="941" alt="Captura de pantalla 2024-05-31 a la(s) 9 09 24 a m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/b81daa45-360c-4eda-a2db-b91d7d13f44c">
+
+
+ Efficient Management of Asynchronous Operations: Manage multiple asynchronous operations like API calls which need to be coordinated without blocking the main application workflow.
+          
+           En este ejemplo, creamos un grupo de subprocesos con 5 subprocesos utilizando el método Executors.newFixedThreadPool(5). Luego enviamos 10 solicitudes de API al grupo de subprocesos utilizando el método executor.submit(). Las solicitudes de API se ejecutan de forma simultánea y asincrónica, lo que permite que el flujo de trabajo de la aplicación principal continúe ejecutándose sin bloquearse.
+
+ <img width="600" alt="Captura de pantalla 2024-05-31 a la(s) 9 35 54 a m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/9884f5df-d379-4414-a5e9-fc04b18cc7ed">
+
+     
