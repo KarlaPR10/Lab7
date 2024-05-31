@@ -7,7 +7,7 @@ Integrating Design Patterns in a Project Scenario
         Design a system that ensures a single, globally accessible configuration object without access conflicts.
 
         Patrón Singleton
-        
+        Se aplica el patron singleton dando un ejemplo de configuración el creo se opto porque es el adecuado que emular un patron singleton.
 <img width="523" alt="Captura de pantalla 2024-05-30 a la(s) 5 42 58 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/97e505c1-02a7-417e-a120-da1e6d37bc05">
 
 <img width="559" alt="Captura de pantalla 2024-05-30 a la(s) 6 00 47 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/6e8aeb4a-da0a-4b26-8ec5-954ef98c9b70">
@@ -17,8 +17,7 @@ Integrating Design Patterns in a Project Scenario
   <img width="620" alt="Captura de pantalla 2024-05-30 a la(s) 7 02 05 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/fabe8b59-1fbf-4c93-acff-25051e181e76">
 <img width="765" alt="Captura de pantalla 2024-05-30 a la(s) 7 02 10 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/a0a76bbd-87ca-4866-a5e7-cb4f6cd12e0a">
 
-
-        State Change Notification Across System Components: Ensure components are notified about changes in the state of other parts without creating tight coupling.
+ State Change Notification Across System Components: Ensure components are notified about changes in the state of other parts without creating tight coupling.
         Efficient Management of Asynchronous Operations: Manage multiple asynchronous operations like API calls which need to be coordinated without blocking the main application workflow.
     Task: Outline solutions that integrate these patterns into a cohesive design to address the challenges.
   Project Execution Simulation:
