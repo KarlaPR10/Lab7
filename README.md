@@ -5,9 +5,9 @@ Integrating Design Patterns in a Project Scenario
       Design Challenges:
         Global Configuration Management: 
         Design a system that ensures a single, globally accessible configuration object without access conflicts.
-        class Configuration{
 
-    <img width="559" alt="Captura de pantalla 2024-05-30 a la(s) 6 00 47 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/079f911c-7eba-42b3-87df-8b3f26557bd8">
+        <img width="559" alt="Captura de pantalla 2024-05-30 a la(s) 6 00 47 p m" src="https://github.com/KarlaPR10/Lab7/assets/138635602/e8537236-4944-4a9c-aa68-bfd1f2e28bdf">
+
 
         Dynamic Object Creation Based on User Input: Implement a system to dynamically create various types of user interface elements based on user actions.
         State Change Notification Across System Components: Ensure components are notified about changes in the state of other parts without creating tight coupling.
